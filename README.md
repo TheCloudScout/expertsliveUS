@@ -1,2 +1,17 @@
-# expertsliveUS
-This repo was created to share my talk which I gave on October 10th 2025 during Experts Live US @ Times Square 
+![Cover](.images/2025_cover.jpg)
+
+_Discover how to unlock the full potential of Microsoft Sentinel without breaking the bank! This session dives into practical tips and field-tested strategies to optimize your Sentinel setup. Learn how to start leveraging Sentinel for free, make informed architectural decisions and create a logging strategy with the new data lake feature. Keep your costs under control with smart KQL queries and custom alerts. Explore techniques to monitor performance, troubleshoot ingestion issues._
+
+_Whether you're new to Sentinel or looking to refine your setup, this session has something for everyone._
+
+### Download my slidedeck below!
+
+[<img src=".images//pdf.png" alt="drawing" height="150"/>](https://1drv.ms/b/c/ada5d3d1b8db9262/Ee6Blr6fHBxOv8B4aHqTGFABb18AaPiNaOg1_SSySK_nNg?e=GPDASc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src=".images//pptx.png" alt="drawing" height="150"/>](https://1drv.ms/p/c/ada5d3d1b8db9262/EQI8-C7NDu9Ip_mwmJG201QByD4Orz6LT4kIXje-qzHWvw?e=XNCEvh)
+
+[**PDF**](https://1drv.ms/b/c/ada5d3d1b8db9262/Ee6Blr6fHBxOv8B4aHqTGFABb18AaPiNaOg1_SSySK_nNg?e=GPDASc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**PPTx**](https://1drv.ms/p/c/ada5d3d1b8db9262/EQI8-C7NDu9Ip_mwmJG201QByD4Orz6LT4kIXje-qzHWvw?e=XNCEvh)
+
+### Follow me and check out my content!
+
+[<img src=".images//linkedin.png" alt="drawing" height="150"/>](https://www.linkedin.com/in/koos-goossens/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src=".images//podcast.png" alt="drawing" height="150"/>](https://df3ndr.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src=".images//blog.png" alt="drawing" height="150"/>](https://aka.ms/koos)
+
+[**LinkedIn**](https://www.linkedin.com/in/koos-goossens/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Podcast**](https://df3ndr.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Blog**](https://aka.ms/koos)
