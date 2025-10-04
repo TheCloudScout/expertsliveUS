@@ -8,7 +8,7 @@ _Whether you're new to Sentinel or looking to refine your setup, this session ha
 
 [<img src=".images//pdf.png" alt="drawing" height="150"/>](https://1drv.ms/b/c/ada5d3d1b8db9262/Ee6Blr6fHBxOv8B4aHqTGFABb18AaPiNaOg1_SSySK_nNg?e=GPDASc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src=".images//pptx.png" alt="drawing" height="150"/>](https://1drv.ms/p/c/ada5d3d1b8db9262/EQI8-C7NDu9Ip_mwmJG201QByD4Orz6LT4kIXje-qzHWvw?e=XNCEvh)
 
-[**PDF**](https://1drv.ms/b/c/ada5d3d1b8db9262/Ee6Blr6fHBxOv8B4aHqTGFABb18AaPiNaOg1_SSySK_nNg?e=GPDASc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**PPTx**](https://1drv.ms/p/c/ada5d3d1b8db9262/EQI8-C7NDu9Ip_mwmJG201QByD4Orz6LT4kIXje-qzHWvw?e=XNCEvh)
+[**PDF** [15MB]](https://1drv.ms/b/c/ada5d3d1b8db9262/Ee6Blr6fHBxOv8B4aHqTGFABb18AaPiNaOg1_SSySK_nNg?e=GPDASc)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**PPTx** [500MB]](https://1drv.ms/p/c/ada5d3d1b8db9262/EQI8-C7NDu9Ip_mwmJG201QByD4Orz6LT4kIXje-qzHWvw?e=XNCEvh)
 
 ### Follow me and check out my content!
 
